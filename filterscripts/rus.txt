@@ -1,0 +1,92 @@
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5582) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5625) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5646) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5651) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5673) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5682) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5686) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5687) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5722) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5723) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5742) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5744) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5754) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5763) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5779) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5803) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5815) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5816) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5826) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5827) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5828) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5829) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5837) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5873) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5881) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5915) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5917) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5933) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5941) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5954) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5967) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5976) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(5978) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6049) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6063) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6068) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6077) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6082) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6092) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6099) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6171) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6172) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6176) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6183) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6184) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6235) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6240) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6243) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6253) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6266) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6272) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6278) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6284) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6290) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6311) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6312) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6317) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6330) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6368) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6431) : ïðåäóïðåæäåíèå 201: ïîâòîðíîå îáúÿâëåíèå êîíñòàíòû/ìàêðîñà (èäåíòèôèêàòîð "E_DATA_VO")
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6432) : îøèáêà 021: èäåíòèôèêàòîð "POSITION_X" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6436) : îøèáêà 021: èäåíòèôèêàòîð "ROTATION_X" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6440) : îøèáêà 021: èäåíòèôèêàòîð "ATTACH_OBJECT_MD" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6444) : îøèáêà 021: èäåíòèôèêàòîð "SearchResults" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6446) : îøèáêà 021: èäåíòèôèêàòîð "CurrentEditSlot" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6453) : îøèáêà 021: èäåíòèôèêàòîð "CurrentTimer" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(6456) : îøèáêà 021: èäåíòèôèêàòîð "iVO_TD" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(11948) : îøèáêà 021: èäåíòèôèêàòîð "SSCANF_OnFilterScriptInit" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(11990) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vattach" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12037) : îøèáêà 021: èäåíòèôèêàòîð "CreateAttachObject" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12072) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vclone" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12119) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vsearch" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12136) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vlist" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12155) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vend" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12168) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vcancel" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12180) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vremove" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12202) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vexport" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12239) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vresetall" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12246) : îøèáêà 021: èäåíòèôèêàòîð "cmd_ivo" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12258) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vedit" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12281) : îøèáêà 021: èäåíòèôèêàòîð "cmd_vsym" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12354) : îøèáêà 021: èäåíòèôèêàòîð "OnDialogResponse" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12459) : îøèáêà 021: èäåíòèôèêàòîð "SSCANF_OnPlayerConnect" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12466) : îøèáêà 021: èäåíòèôèêàòîð "SSCANF_OnPlayerDisconnect" óæå îáúÿâëåí
+C:\Users\Administrator\Desktop\Model npd\filterscripts\Objectxe.pwn(12473) : îøèáêà 021: èäåíòèôèêàòîð "OnPlayerDeath" óæå îáúÿâëåí
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

@@ -1,0 +1,37 @@
+//For Nex-AC v1.0 (0.3.7-R1)
+
+#if defined _nex_ac_lang_included
+	#endinput
+#endif
+#define _nex_ac_lang_included
+
+new
+	SUSPICION_1[] =			"[Anticheat] Nguoi choi %s da bi kick boi Anticheat. Ly do: #%03d%s",
+	SUSPICION_2[] =			"[Anticheat] Nguoi choi %s da bi kick boi Anticheat. Ly do: #%03d%s",
+	VERSION_WARNING[] =		"[Anticheat] This version of the anticheat is not suitable for the server version",
+	CFG_OPENING_ERROR[] =	"[Anticheat] Error creating/opening %s!",
+
+#if defined DEBUG
+	DEBUG_CODE_1[] =		"[Anticheat] ID %d da ket noi voi so luong flooding %d . ID: %d",
+	DEBUG_CODE_2[] =		"[Anticheat] Nguoi choi %d su dung phien ban khong hop le. Version: %s",
+	DEBUG_CODE_3[] =		"[Anticheat] ID %d da ket noi so luong %d trong 1 IP",
+	DEBUG_CODE_4[] =		"[Anticheat] Bad RCON login by IP %s using password %s",
+	DEBUG_CODE_5[] =		"[Anticheat] ID %d used NOP %s",
+#endif
+
+	KICK_MSG[] =			"{FF6347}Ban da bi kick ra khoi may chu vi su dung Cleo {FFFFFF}(#%03d)",
+	MAX_CONNECTS_MSG[] =	"So luong ket noi tu IP cua ban qua nhieu .",
+	UNKNOWN_CLIENT_MSG[] =	"Phien ban ma ban dang su dung khong hop le.",
+
+	LOADED_MSG_1[] =		" Anticheat da ket noi!",
+	LOADED_MSG_2[] =		" Anticheat version: %s",
+	LOADED_MSG_3[] =		" Author: Nexius",
+
+	STATS_STRING_1[] =		" Statistics anticheat Nex-AC",
+	STATS_STRING_2[] =		" Detected and prevented:",
+	STATS_STRING_3[] =		"  %d cheating attempts",
+	STATS_STRING_4[] =		"  %d hacking attempts",
+	STATS_STRING_5[] =		"  %d crashing attempts",
+	STATS_STRING_6[] =		"  %d flooding attempts",
+	STATS_STRING_7[] =		"  %d attacks",
+	STATS_STRING_8[] =		" Total detected and punished %d cheaters";
